@@ -1,0 +1,12 @@
+eğer aratarak point koyduysa isimi oradan alırız
+eğer kendi tıkladıysa bir dialog açalım isim girsin ve marker tipi seçsin
+
+
+tıkladığımda altta açılsın dialog resim indirmiştin onları incele
+
+
+qr olsun başkasına paylaşmak isteyebilirler konumu ve google map te açılsın qr sonucu
+
+
+önce gitmek istediği yerin ve gittiği yerlerin listesi gelecek hepsi tek listede olacak en altta bir buton olacak 
+yeni durak ekle gibi
